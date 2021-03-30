@@ -29,17 +29,17 @@ If no file is found respond with a Not Found message.
 * It Works: *1pt*
 
 TO DO: 
--Set up public folder with index.html file 
--Have to set up a server listening on local host 5432
--write test for expectation for a response to url/index.html
-    -user hits url
-    -check if file named in url/:name exists in public folder 
-        -if not send a Not Found error message
-    -if it does READ FILE named in url/:name
-    -send file string as response to user
--write endpoint for url.index.html
--get tests passing
--refactor
--try adding other files to public folder 
--keep tests passing 
+* Set up public folder with index.html file 
+* Have to set up a server listening on local host 5432
+* write test for expectation for a response to url/index.html
+    * * user hits url
+    * * check if file named in url/:name exists in public folder 
+        * * * if not send a Not Found error message
+    * * if it does READ FILE named in url/:name
+    * * send file string as response to user
+* write endpoint for url.index.html
+* get tests passing
+* refactor
+* try adding other files to public folder 
+* keep tests passing 
 
