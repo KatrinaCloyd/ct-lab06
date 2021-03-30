@@ -29,7 +29,7 @@ If no file is found respond with a Not Found message.
 * It Works: *1pt*
 
 TO DO: 
-* Set up public folder with index.html file 
+* X *Set up public folder with index.html file* 
 * Have to set up a server listening on local host 5432
 * write test for expectation for a response to url/index.html
     * user hits url
